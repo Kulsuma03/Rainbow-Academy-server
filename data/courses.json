@@ -1,52 +1,59 @@
 [
     {
-        "id": 1,
+        "category_id": 1,
+        "id" : "123456ya",
         "name": "CPA Marketing",
         "img": "https://learncoading.com/wp-content/uploads/2019/04/CPA-Marketing.png?w=144",
         "duration": "115",
-        "review": "4.5"
+        "review": "4.5",
+        "about": "The CPA marketing model is an advertising model that consists of a publisher (affiliate), a business (advertiser) and a CPA network (a platform that brings together affiliates who want to earn commissions by promoting products and businesses that want their products promoted).Advertisers typically use a CPA network to find the best affiliate to advertise their product — typically a publisher or influencer who creates related content and has an established audience.For example, a travel blogger might specialize in publishing content about culinary hotspots via WordPress. An app developer might offer a mobile app that lets users find and review restaurants, which would appeal to the travel bloggers audience. " 
     },
     {
-        "id": 2,
+        "category_id": 2,
+        "id" : "903456ya",
         "name": "Digital Marketing",
-        "img": "https://nurseweek.com/wp-content/uploads/2021/08/001115.jpg",
+        "img": "https://img.freepik.com/free-vector/digital-marketing-landing-page_33099-1726.jpg?w=2000",
         "duration": "133",
         "review": "5"
     },
     {
-        "id": 3,
+        "category_id": 3,
+        "id" : "12345r7a",
         "name": "Medicine",
         "img": "https://cdn.dnaindia.com/sites/default/files/styles/full/public/2022/03/26/1209071-meds.jpeg",
         "duration": "110",
         "review": "4.5"
     },
     {
-        "id": 4,
+        "category_id": 4,
+        "id" : "1A3456ya",
         "name": "Surgery",
         "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSdcDEjsiyvsnNacVcKdngR3lNPY8EAZBuEg&usqp=CAU",
         "duration": "110",
         "review": "4.0"
     },
     {
-        "id": 5,
+        "category_id": 5,
+        "id" : "12R656ya",
         "name": "About",
         "img": "https://image.shutterstock.com/image-illustration/about-us-concept-interface-world-260nw-157806671.jpg",
         "duration": "115",
         "review": "5"
     },
     {
-        "id": 6,
+        "category_id": 6,
+        "id" : "8L3456ya",
         "name": "About",
         "img": "https://image.shutterstock.com/image-illustration/about-us-concept-interface-world-260nw-157806671.jpg",
         "duration": "115",
         "review": "4.5"
     },
     {
-        "id": 7,
+        "category_id": 7,
+        "id" : "123456yG",
         "name": "About",
         "img": "https://image.shutterstock.com/image-illustration/about-us-concept-interface-world-260nw-157806671.jpg",
         "duration": "115",
         "review": "5"
     }
-    
 ]
