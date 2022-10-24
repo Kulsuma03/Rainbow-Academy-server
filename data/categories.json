@@ -1,0 +1,28 @@
+[
+    {
+        "id": 1,
+        "name": "Emergency care",
+        "img": "https://t.pimg.jp/017/585/714/1/17585714.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Health Checkup",
+        "img": "https://nurseweek.com/wp-content/uploads/2021/08/001115.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Medicine",
+        "img": "https://cdn.dnaindia.com/sites/default/files/styles/full/public/2022/03/26/1209071-meds.jpeg"
+    },
+    {
+        "id": 4,
+        "name": "Surgery",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSdcDEjsiyvsnNacVcKdngR3lNPY8EAZBuEg&usqp=CAU"
+    },
+    {
+        "id": 5,
+        "name": "About",
+        "img": "https://image.shutterstock.com/image-illustration/about-us-concept-interface-world-260nw-157806671.jpg"
+    }
+    
+]
