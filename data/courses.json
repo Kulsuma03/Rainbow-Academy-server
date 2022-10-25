@@ -3,7 +3,7 @@
         "category_id": 1,
         "id" : "123456ya",
         "name": "CPA Marketing",
-        "img": "https://learncoading.com/wp-content/uploads/2019/04/CPA-Marketing.png?w=144",
+        "img": "https://www.internetmarketingschool.co.in/wp-content/uploads/2020/06/CPA-marketing.png",
         "duration": "115",
         "review": "4.5",
         "about": "The CPA marketing model is an advertising model that consists of a publisher (affiliate), a business (advertiser) and a CPA network (a platform that brings together affiliates who want to earn commissions by promoting products and businesses that want their products promoted).Advertisers typically use a CPA network to find the best affiliate to advertise their product — typically a publisher or influencer who creates related content and has an established audience.For example, a travel blogger might specialize in publishing content about culinary hotspots via WordPress. An app developer might offer a mobile app that lets users find and review restaurants, which would appeal to the travel bloggers audience. " 
@@ -14,46 +14,61 @@
         "name": "Digital Marketing",
         "img": "https://img.freepik.com/free-vector/digital-marketing-landing-page_33099-1726.jpg?w=2000",
         "duration": "133",
-        "review": "5"
+        "review": "5",
+        "about": "Digital marketing and inbound marketing are easily confused, and for good reason. Digital marketing uses many of the same tools as inbound marketing—email and online content, to name a few. Both exist to capture the attention of prospects through the buyers journey and turn them into customers. But the 2 approaches take different views of the relationship between the tool and the goal.Digital marketing considers how individual tools or digital channels can convert prospects. A brand's digital marketing strategy may use multiple platforms or focus all of its efforts on 1 platform. For example, a company may primarily create content for social media platforms and email marketing campaigns while ignoring other digital marketing avenues.Any type of marketing can help your business thrive. However, digital marketing has become increasingly important because of how accessible digital channels are. In fact, there were 5 billion internet users globally in April 2022 alone."
     },
     {
         "category_id": 3,
         "id" : "12345r7a",
-        "name": "Medicine",
-        "img": "https://cdn.dnaindia.com/sites/default/files/styles/full/public/2022/03/26/1209071-meds.jpeg",
+        "name": "Women's Leadership",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZIS-tzdqX2inkTke13TmLr4Kgxgn1UfyQ1w&usqp=CAU",
         "duration": "110",
-        "review": "4.5"
+        "review": "4.5",
+        "about": "Women are powerful agents of change, and the far-reaching benefits of diversity and gender parity in leadership and decision-making are increasingly recognized in all spheres. Still, women continue to be vastly under-represented in decision-making in politics, businesses, and communities.The case for balancing the power equation in leadership has never been more clear: elevating women in decision-making benefits politics, businesses, and communities. But progress in women's leadership will not happen automatically. The below actions we can take together—across governments, corporations, academia, non-profits, and civil society—to balance power in leadership and decision-making:"
     },
     {
         "category_id": 4,
         "id" : "1A3456ya",
-        "name": "Surgery",
-        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSdcDEjsiyvsnNacVcKdngR3lNPY8EAZBuEg&usqp=CAU",
+        "name": "Web Design",
+        "img": "https://miro.medium.com/max/915/0*4DpFVUP_VfkhzSIL",
         "duration": "110",
-        "review": "4.0"
+        "review": "4.0",
+        "about": "Web design refers to the design of websites that are displayed on the internet. It usually refers to the user experience aspects of website development rather than software development. Web design used to be focused on designing websites for desktop browsers; however, since the mid-2010s, design for mobile and tablet browsers has become ever-increasingly important.A web designer works on the appearance, layout, and, in some cases, content of a website. Appearance, for instance, relates to the colors, font, and images used. Layout refers to how information is structured and categorized. A good web design is easy to use, aesthetically pleasing, and suits the user group and brand of the website. Many webpages are designed with a focus on simplicity, so that no extraneous information and functionality that might distract or confuse users appears. As the keystone of a web designer’s output is a site that wins and fosters the trust of the target audience, removing as many potential points of user frustration as possible is a critical consideration."
     },
     {
         "category_id": 5,
         "id" : "12R656ya",
-        "name": "About",
-        "img": "https://image.shutterstock.com/image-illustration/about-us-concept-interface-world-260nw-157806671.jpg",
+        "name": "Web Development",
+        "img": "https://contentstatic.techgig.com/photo/84794342/what-are-the-key-responsibilities-of-web-developers.jpg?49831",
         "duration": "115",
-        "review": "5"
+        "review": "5",
+        "about": "Web development is the building and maintenance of websites; it's the work that happens behind the scenes to make a website look great, work fast and perform well with a seamless user experience.Web developers, or 'devs', do this by using a variety of coding languages. The languages they use depends on the types of tasks they are preforming and the platforms on which they are workingWeb development skills are in high demand worldwide and well paid too  making development a great career option. It is one of the easiest accessible higher paid fields as you do not need a traditional university degree to become qualified.The field of web development is generally broken down into front-end (the user-facing side) and back-end (the server side). Lets delve into the details."
     },
     {
         "category_id": 6,
         "id" : "8L3456ya",
-        "name": "About",
-        "img": "https://image.shutterstock.com/image-illustration/about-us-concept-interface-world-260nw-157806671.jpg",
+        "name": "Personal Bookkeeping",
+        "img": "https://hrmbassociates.com/wp-content/uploads/2022/07/Personal-Bookkeeping-Service.png",
         "duration": "115",
-        "review": "4.5"
+        "review": "4.5",
+        "about": "Here at Plumb Family CFO, we understand the unique needs of the high-net-worth.  We have been helping affluent families, busy entrepreneurs and retired couples navigate their personal finances by providing a high-level bookkeeping service that is trusted and dependable.We become your back-office accounting team. Our accounting experts have both corporate and personal bookkeeping backgrounds and deliver white-glove customer service.  By outsourcing bookkeeping to Plumb Family CFO, you will receive a team of accountants to provide services including:The setup process is unique for each family.  Personal bookkeeping services are customizable and pricing is based on a monthly fixed-fee basis.  The back-office accounting means that we can work virtually for the majority of the bookkeeping transactions, but also have meetings in person or on the phone to review financial statements and goals."
     },
     {
         "category_id": 7,
         "id" : "123456yG",
-        "name": "About",
-        "img": "https://image.shutterstock.com/image-illustration/about-us-concept-interface-world-260nw-157806671.jpg",
+        "name": "Graphic Design",
+        "img": "https://sgp1.digitaloceanspaces.com/cosmosgroup/news/1071218_Graphic-Design.jpg",
         "duration": "115",
-        "review": "5"
+        "review": "5",
+        "about": "Graphic design is an ancient craft, dating back past Egyptian hieroglyphs to at least 17,000-year-old cave paintings. It's a term that originated in the 1920s print industry. It continues to cover a range of activities including logo creation. Graphic design in this sense concerns aesthetic appeal and marketing. Graphic designers attract viewers using images, color and typography. However, graphic designers working in user experience (UX) design must justify stylistic choices regarding, say, image locations and font with a human-centered approach. That means you need to focus on—and seek to empathize the most with—your specific users while you create good-looking designs that maximize usability. Aesthetics must serve a purpose—in UX design we don't create art for art's sake. So, graphic designers must branch into visual design. When designing for UX, you should:Although to work in the digital age means you must design with interactive software, graphic design still revolves around age-old principles. Its crucial that you strike the right chord with users from their first glance—hence graphic designs correspondence with emotional design."
+    },
+    {
+        "category_id": 8,
+        "id" : "127956KG",
+        "name": "Network Marketing",
+        "img": "https://miro.medium.com/max/897/1*ncyhXNVpBNCRh--0mIaOrA.jpeg",
+        "duration": "115",
+        "review": "5",
+        "about": "Network marketing is a business model that depends on person-to-person sales by independent representatives, often working from home. A network marketing business may require you to build a network of business partners or salespeople to assist with lead generation and closing sales.There are many reputable network marketing operations, but some have been denounced as pyramid schemes. The latter may focus less on sales to consumers than on recruitment of salespeople who may be required to pay upfront for expensive starter kits.To make your money back, you'll need to sell a lot of product. And to continue to make a profit, you'll need to continue selling more (and sometimes recruiting new salespeople for your downline). Consider whether your network truly has enough buyers to support your business's needs, and research the network marketing company thoroughly before you get involved."
     }
 ]

@@ -2,49 +2,56 @@
     {
         "id": 1,
         "name": "CPA Marketing",
-        "img": "https://learncoading.com/wp-content/uploads/2019/04/CPA-Marketing.png?w=144",
+        "img": "https://www.internetmarketingschool.co.in/wp-content/uploads/2020/06/CPA-marketing.png",
         "duration": "115",
         "review": "4.5"
     },
     {
         "id": 2,
         "name": "Digital Marketing",
-        "img": "https://nurseweek.com/wp-content/uploads/2021/08/001115.jpg",
+        "img": "https://img.freepik.com/free-vector/digital-marketing-landing-page_33099-1726.jpg?w=2000",
         "duration": "133",
         "review": "5"
     },
     {
         "id": 3,
-        "name": "Medicine",
-        "img": "https://cdn.dnaindia.com/sites/default/files/styles/full/public/2022/03/26/1209071-meds.jpeg",
+        "name": "Women's Leadership",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZIS-tzdqX2inkTke13TmLr4Kgxgn1UfyQ1w&usqp=CAU",
         "duration": "110",
         "review": "4.5"
     },
     {
         "id": 4,
-        "name": "Surgery",
-        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSdcDEjsiyvsnNacVcKdngR3lNPY8EAZBuEg&usqp=CAU",
+        "name": "Web Design",
+        "img": "https://miro.medium.com/max/915/0*4DpFVUP_VfkhzSIL",
         "duration": "110",
         "review": "4.0"
     },
     {
         "id": 5,
-        "name": "About",
-        "img": "https://image.shutterstock.com/image-illustration/about-us-concept-interface-world-260nw-157806671.jpg",
+        "name": "Web Development",
+        "img": "https://contentstatic.techgig.com/photo/84794342/what-are-the-key-responsibilities-of-web-developers.jpg?49831",
         "duration": "115",
         "review": "5"
     },
     {
         "id": 6,
-        "name": "About",
-        "img": "https://image.shutterstock.com/image-illustration/about-us-concept-interface-world-260nw-157806671.jpg",
+        "name": "Personal Bookkeeping",
+        "img": "https://hrmbassociates.com/wp-content/uploads/2022/07/Personal-Bookkeeping-Service.png",
         "duration": "115",
         "review": "4.5"
     },
     {
         "id": 7,
-        "name": "About",
-        "img": "https://image.shutterstock.com/image-illustration/about-us-concept-interface-world-260nw-157806671.jpg",
+        "name": "Graphic Design",
+        "img": "https://sgp1.digitaloceanspaces.com/cosmosgroup/news/1071218_Graphic-Design.jpg",
+        "duration": "115",
+        "review": "5"
+    },
+    {
+        "id": 8,
+        "name": "Network Marketing",
+        "img": "https://miro.medium.com/max/897/1*ncyhXNVpBNCRh--0mIaOrA.jpeg",
         "duration": "115",
         "review": "5"
     }
