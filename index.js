@@ -20,10 +20,10 @@ app.get('/categories', (req, res) => {
 
 // click for categories Item by id
 
-app.get('/category/:id', (req, res) => {
+app.get('/checkout/:id', (req, res) => {
     const id = req.params.id;
-    const category = courses.find(c => c.category_id == id);
-    res.send(category);
+    const checkout = courses.find(c => c.id == id);
+    res.send(checkout);
 })
 
 // load courses
